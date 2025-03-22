@@ -1,3 +1,3 @@
 # MyTestProject
 # How to get github achivements
-# How can I?
+# How can I do this?
